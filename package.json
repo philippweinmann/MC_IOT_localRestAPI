@@ -1,0 +1,16 @@
+{
+  "name": "programming",
+  "version": "1.0.0",
+  "description": "fake rest api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "json:server:students": "json-server --watch students.json",
+    "json:server:index_cards": "json-server --watch index_cards.json"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}

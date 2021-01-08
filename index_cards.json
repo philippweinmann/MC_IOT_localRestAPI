@@ -1,0 +1,32 @@
+{
+  "index_cards": [
+    {
+      "id": "1",
+      "title": "John",
+      "front": "Doe",
+      "back": "john@gmail.com",
+      "link": "wikipedia.com"
+    },
+    {
+      "id": "2",
+      "title": "John2",
+      "front": "Doe2",
+      "back": "john2@gmail.com",
+      "link": "wikipedia2.com"
+    },
+    {
+      "id": "3",
+      "title": "John3",
+      "front": "Doe3",
+      "back": "john3@gmail.com",
+      "link": "wikipedia3.com"
+    },
+    {
+      "id": "4",
+      "title": "John4",
+      "front": "Doe4",
+      "back": "john4@gmail.com",
+      "link": "wikipedia4.com"
+    }
+  ]
+}
