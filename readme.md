@@ -32,3 +32,7 @@ http://localhost:3000/index_cards?\_sort=title&\_order=desc
 http://localhost:3000/index_cards?\_sort=title&\_order=asc
 
 The same applies for the students, just try out how to access by going to http://localhost:3000/
+
+# How to modify the database structure
+
+if you want to add or remove an entry or rename an entry directly change the json files: `students.json` or `index_cards.json`
